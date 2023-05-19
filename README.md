@@ -1,5 +1,5 @@
 # Advanced_CSS_Sass_Flexbox_Grid_Animations
-this is practice project
+this is practice project (naturous)
 
 Trello Link: https://trello.com/b/C6kom9Ac/web-designe
 
